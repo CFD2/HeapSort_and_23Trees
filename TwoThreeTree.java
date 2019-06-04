@@ -1,5 +1,5 @@
 /**
- * @author Vadim Yastrebov (CFD2) 100908473
+  * @author Vadim Yastrebov
  * @version 2017.08.15
  */
 public class TwoThreeTree <T extends Comparable> {
